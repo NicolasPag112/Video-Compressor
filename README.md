@@ -73,7 +73,6 @@ Every subsequent time you run `python run.py`, it will simply detect the existin
 
 -----
 
-\<hr\>
 
 -----
 
